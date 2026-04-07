@@ -9,10 +9,8 @@
       "iconURL": "https://via.placeholder.com/120",
       "localizedDescription": "我的第一个软件源",
       "size": 12345678
-    }
-  ]
-}
- {
+    },
+    {
       "name": "测试App2",
       "bundleIdentifier": "com.test.app2",
       "version": "1.0",
