@@ -1,0 +1,14 @@
+{
+  "name": "Leon源",
+  "identifier": "com.leon.source",
+  "apps": [
+    {
+      "name": "测试App",
+      "bundleIdentifier": "com.test.app",
+      "version": "1.0",
+      "downloadURL": "https://example.com/app.ipa",
+      "iconURL": "https://via.placeholder.com/120",
+      "description": "我的第一个软件源"
+    }
+  ]
+}
