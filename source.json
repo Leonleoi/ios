@@ -5,7 +5,7 @@
       "name": "📢 公告",
       "bundleIdentifier": "notice.app",
       "version": "1.0",
-      "downloadURL": "",
+      "downloadURL": "https://github.com/Leonleoi/ios/releases/download/v1.0/iPA._1.0.5.ipa",
       "iconURL": "https://via.placeholder.com/120",
       "localizedDescription": "欢迎使用Leon源\n\n⚠️ 安装前请先信任证书\n📌 本源仅供学习交流使用\n🔑 更新会不定期发布",
       "size": 0
